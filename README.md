@@ -1,4 +1,4 @@
-# Industrial-6DOF-Robot-Work
+# Industrial-6DOF-Digital Twin Dashboard
 Project Overview
 
 This is an independent project to develop a Digital Twin dashboard for industrial machinery. Currently, a 6DOF CAD model has been created and will be integrated into MATLAB Simulink as a URDF model.
